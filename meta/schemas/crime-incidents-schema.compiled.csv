@@ -1,0 +1,30 @@
+field_name,original_name,datatype
+id,ID,string
+case_number,Case Number,string
+datetime,Date,datetime
+block_address,Block,string
+fbi_code,FBI Code,string
+iucr_code,IUCR,string
+primary_desc,Primary Type,string
+secondary_desc,Description,string
+location_type,Location Description,string
+is_arrest,Arrest,boolean
+is_domestic,Domestic,boolean
+year,Year,integer
+month,,integer
+day_of_week,,integer
+hour,,integer
+quarter,,integer
+ward,Ward,string
+community_area,Community Area,string
+police_district,District,string
+police_beat,Beat,string
+street_number,,string
+street_direction,,string
+street_name,,string
+street_suffix,,string
+latitude,Latitude,float
+longitude,Longitude,float
+x_coord,X Coordinate,string
+y_coord,Y Coordinate,string
+updated_on,Updated On,datetime
